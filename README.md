@@ -1,10 +1,12 @@
-# Desafíos café con leche del paradigma lógico
-Desafio Cafe con leche
+# Desafíos café con leche 
 
-Paradigma logico
+**Paradigma lógico**
 
+![](cafe-virtual.jpg)
 
-### Probabilidades del TEG
+Propuestos en clase 30/6. Premio virtual a las mejores soluciones. 
+
+### 1. Probabilidades del TEG
 
 Kamchatka ataca Alaska, los dos países tienen más de tres ejércitos, por lo que tira con 3 dados cada uno.
 Los resultados posibles, desde el punto de vista del atacante, son:
@@ -23,18 +25,21 @@ Ejemplos:
 * Kamchatka 3 6 4 - Alaska 4 1 3 : Kamchatka gana los 3 (6-4 4-3 3-1)
 
 
-### Camino de Euler  
+### 2. Camino de Euler
 
 Un camino que pasa por todos los vértices de un grafo, sin pasar dos veces por la misma arista. 
 
-### Insistencia
+### 3. Insistencia
 "Tanto va el cantaro a la fuente…."
 
 Hago una consulta  -> false
+
 La vuelvo a hacer -> false
+
 La hago muchas veces -> false
+
 Hasta que una vez…. -> true
 
-Pista: ¿una consulta puede generar efecto?
+*Pista: ¿una consulta puede generar efecto?*
 
 
